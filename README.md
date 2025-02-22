@@ -226,7 +226,7 @@ p.note { display: none; }
     <a href="⑤雪の中で輝くシンデレラ.mp3" download>雪の中で輝くシンデレラ</a>
 -->    
     
-<h2><span class="yellow">昨日配信の「雪の中で輝くシンデレラ」に関してご本人からコメントいただきました<br>画像クリックでYouTubeアップされた「雪の中で輝くシンデレラ」に飛びます</span></h2>
+<h2><span class="yellow">一昨日配信の「雪の中で輝くシンデレラ」に関してご本人からコメントいただきました<br>画像クリックでYouTubeアップされた「雪の中で輝くシンデレラ」に飛びます</span></h2>
 <a href="https://www.youtube.com/watch?v=cPZ6JIvxrUk" target="_blank"><img src="maitiya_002.png" alt="サンプル画像" width="900" /></a>
     
 
