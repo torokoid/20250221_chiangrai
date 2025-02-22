@@ -209,7 +209,7 @@ p.note { display: none; }
     <a href="画面収録 2025-02-16 20.46.41.mp4" download>動画をダウンロード</a>
 -->
 
-<h3><span class="grey">歌の後半部分しか撮れてませんが、2月16日のイベントで公開された「笑って死ぬ」 by まいてゃ</span></h3>
+<h3><span class="grey">歌の後半部分しか撮れてませんが、2月16日のイベントで公開された「笑って死ぬ」 by まいてゃ<br>白ドレスはダンサーの玖遠さん、黒いドレスがまいてゃさん</span></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s4ZcbxAluMM?si=Xa32xo19UCNaWv0v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
     
