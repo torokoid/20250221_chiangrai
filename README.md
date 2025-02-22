@@ -208,11 +208,13 @@ p.note { display: none; }
     <h2>MP4ファイルのダウンロード</h2>
     <a href="画面収録 2025-02-16 20.46.41.mp4" download>動画をダウンロード</a>
 -->
+
+<h2>2月16日のイベントで公開された「思い出は月の光の中に」 by まいてゃ</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gQaVSFpfDrg?si=LDgi-Dcpk3sPbNQK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
     
     
-    
-    <h2>笑って死ぬ by まいてゃ、AI音声なので男性の声も出せます<br>リアルは数理情報系女子でお名前はマイさんと公表されています</h2>
+    <h2>こちらは画像なしですが「笑って死ぬ」 by まいてゃ、AI音声なので男性の声も出せます<br>リアルは数理情報系女子でお名前はマイさんと公表されています</h2>
 <h2><a href="https://torokoid.github.io/20250221_chiangrai/maitiya3.mp3" target="_blank">この文字クリックで再生します<br>下の再生ボタンでも同じ曲流します</a></h2>
 
     <audio controls>
