@@ -136,7 +136,7 @@ p.note { display: none; }
 <h2><span class="yellow">空も快晴でお月様も見つけやすいですね</span></h2>
 <a href="20250221_002.JPG" target="_blank"><img src="20250221_002.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">月齢は 22.7 下弦の月、太陽とのナス角は90度になります</span></h2>
+<h2><span class="yellow">月齢は 22.7 下弦の月、太陽とのなす角は90度になります</span></h2>
 <a href="20250221_003.JPG" target="_blank"><img src="20250221_003.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">街に向かうと下り車線が道路工事中</span></h2>
