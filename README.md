@@ -217,7 +217,7 @@ p.note { display: none; }
     <h3><span class="grey">フルコーラスの「笑って死ぬ」 by まいてゃ、AI音声なので男性の声も出せます<br>リアルは数理情報系女子でお名前はマイさんと公表されています</span></h3>
 <h2><a href="https://torokoid.github.io/20250221_chiangrai/maitiya3.mp3" target="_blank">この文字クリックで再生します<br>下の再生ボタンでも同じ曲流します</a></h2>
 
-    <audio controls loop>
+    <audio controls>
         <source src="maitiya3.mp3" type="audio/mpeg">
         お使いのブラウザは audio タグをサポートしていません。
     </audio>
